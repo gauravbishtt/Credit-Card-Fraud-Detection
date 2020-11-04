@@ -1,6 +1,6 @@
 # Credit-Card-Fraud-Detection
 
-ABSTRACT – The project is mainly focussed on credit card fraud detection in real world.  With the proposed scheme, using random forest algorithm the accuracy of detecting the fraud can be improved can be improved. Classification process of random forest algorithm to analyse data set and user current dataset. Finally optimize the accuracy of the result data. The performance of the techniques is evaluated based on accuracy, sensitivity, and specificity, and precision.
+ABSTRACT – The project is mainly focussed on credit card fraud detection in real world.  With the proposed scheme, using random forest algorithm the accuracy of detecting the fraud can be improved. Classification process of random forest algorithm to analyse data set and user current dataset. Finally optimize the accuracy of the result data. The performance of the techniques is evaluated based on accuracy, sensitivity, and specificity, and precision.
 We are applying random forest algorithm for classification of the credit card dataset. Random Forest is an algorithm for classification and regression. 
 Random forest ranks the importance of variables in a regression or classification problem in a natural way can be done
 by Random Forest.
